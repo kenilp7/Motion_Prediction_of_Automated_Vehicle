@@ -28,14 +28,3 @@ Python code for LEM summer term seminar with the topic motion prediction in road
 
 - Try to edit this example to implement your ideas!
 
-# May the best data scientist win the competition!!
-
-
-
-
-
-
-
-
-
-##### TO BE DONE ###########
